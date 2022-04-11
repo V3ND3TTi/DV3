@@ -148,6 +148,7 @@ section {
 }
 
 .about .about-content,
+.portfolio .portfolio-content,
 .connect .connect-content {
     display: flex;
     flex-wrap: wrap;
@@ -541,7 +542,7 @@ footer {
 }
 
 @media (max-width: 650px) {
-    .max-width {
-        padding: 0 23px;
+    .portfolio .portfolio-content {
+        margin-left: 20px;
     }
 }
