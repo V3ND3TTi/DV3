@@ -542,7 +542,11 @@ footer {
 }
 
 @media (max-width: 650px) {
+    .max-width {
+        padding: 0 20px;
+    }
+    
     .portfolio .portfolio-content {
-        margin-left: 20px;
+        margin-left: 10px;
     }
 }
