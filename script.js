@@ -21,7 +21,7 @@ $(document).ready(function() {
     
     // TYPING ANIMATION SCRIPT
     let typed = new Typed('.typed', {
-        strings: ["Python", "GoLang", "DevOps", "Gamer"],
+        strings: ["Go", "DevOps", "Gamer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
